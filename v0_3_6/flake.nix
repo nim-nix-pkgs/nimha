@@ -11,6 +11,7 @@
   inputs.src-nimha-v0_3_6.ref   = "refs/tags/v0.3.6";
   inputs.src-nimha-v0_3_6.owner = "ThomasTJdev";
   inputs.src-nimha-v0_3_6.repo  = "nim_homeassistant";
+  inputs.src-nimha-v0_3_6.dir   = "";
   inputs.src-nimha-v0_3_6.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
